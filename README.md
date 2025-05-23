@@ -3,3 +3,5 @@ bep:
 
 trc:
 TNxMSmuVTuPqrGvHzqt5PBtmy7mT1gxNG7
+
+Only USDT
